@@ -1,7 +1,6 @@
 #include "shell.h"
 /**
  * our_strcmp - copies the string
- * 
  * @string1: string to copy
  * @string2: string to be copied
  *
